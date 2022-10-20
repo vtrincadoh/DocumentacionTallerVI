@@ -130,7 +130,6 @@ necesidades
 - Desarrollar habilidades de reconocimiento de emociones
 - Estimular y desarrollar la propiocepción y la cinestesia
 
-
 # Estado del arte y referentes
 <!-- WIP -->
 ## Tazos:
@@ -176,10 +175,20 @@ Coreografía de pares que permite el desarrollo de la propiocepción y la comuni
 # Evaluación de propuestas
 ![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
 
-Luego de realizar la matriz Pugh pudimos evaluar las propuestas entre ellas usando al *QiGong*, o *Chi Kung*, como la base de dicha evaluación. Gracias a esto nos percatamos que la mas compatible entre ellas es el Baile Cooperativo y debajo de esta se encuentran los Discos Emocionales y los Tazos Emocionales.
+Luego de realizar la matriz Pugh pudimos evaluar las propuestas entre
+ellas usando al *QiGong*, o *Chi Kung*, como la base de dicha
+evaluación. Gracias a esto nos percatamos que la mas compatible entre
+ellas es el Baile Cooperativo y debajo de esta se encuentran los
+Discos Emocionales y los Tazos Emocionales.
 
-Como equipo decidimos evaluar también la fusión de ambas actividades, primero de forma directa sumando la puntuación de cada juego para describir su fusión y luego con un análisis mas centrado en nuestra idea: La Posta Emocional. De esta forma nos encontramos con una propuesta que es igual de efectiva que el Chi Kung en algunos aspectos pero superior a el en otros.
-<!-- WIP (Andrés)-->
+Como equipo decidimos evaluar también la fusión de ambas actividades,
+primero de forma directa sumando la puntuación de cada juego para
+describir su fusión y luego con un análisis mas centrado en nuestra
+idea: La Posta Emocional. De esta forma nos encontramos con una
+propuesta que es igual de efectiva que el Chi Kung en algunos aspectos
+pero superior a el en otros.  <!-- WIP (Andrés)-->
+
+![Diagrama explicativo de jugabilidad](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
 
 # Entregables de trabajo
 <!-- WIP -->
