@@ -103,7 +103,10 @@ Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 
 > Desarrollar reconocimiento emocional propio desde la propiocepción,
 > y la cinestesia; a través del juego en recreo
- 
+
+# Investigación realizada
+<!-- WIP -->
+
 # Usuario: Características y necesidades
 <!-- WIP --> 
 Para tener un entendimiento más completo de nuestro
