@@ -23,15 +23,14 @@ papersize: a4
 header-includes: |
 	\usepackage{graphicx}
 	\usepackage{fancyhdr}
-	\pagestyle{fancy}
-	\setlength\headheight{25pt}
-	\lhead{\includegraphics[width=6cm]{./imgs/logos/logo-usm.png}}
-	\rhead{\includegraphics[width=3cm]{./imgs/logos/logo-did.png}}
+  \pagestyle{fancy}
+  \setlength\headheight{25pt}
+	\lhead{\includegraphics[width=6cm]{./imgs/logo-usm.png}}
+	\rhead{\includegraphics[width=3cm]{./imgs/logo-did.png}}
 
 bibliography: refs.bib
 
 ---
-
 <!-- 
 To-do:
 * Casi todo
