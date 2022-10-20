@@ -108,6 +108,7 @@ Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 <!-- WIP -->
 
 # Investigación realizada
+<!-- Sincerar falta de investigación etnográfica -->
 <!-- WIP -->
 
 # Usuario: Características y necesidades
@@ -135,7 +136,13 @@ necesidades
 # Estado del arte y referentes
 <!-- WIP -->
 ## Tazos:
-Son figuras circulares los cuales muestran una imagen asociados a distintas tematicas (Por lo general caricaturas para llamar la atencion de los niños). Su uso consiste, ademas de tener un aspecto coleccionable, en apostar tazos situandolos en el piso junto a la apuesta del contrincante y lanzar un tazo de su arsenal para intentar dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno mas tazos gana los que hayan sido volcados sobre su cara.
+Son figuras circulares los cuales muestran una imagen asociados a
+distintas tematicas (Por lo general caricaturas para llamar la
+atencion de los niños). Su uso consiste, ademas de tener un aspecto
+coleccionable, en apostar tazos situandolos en el piso junto a la
+apuesta del contrincante y lanzar un tazo de su arsenal para intentar
+dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno
+mas tazos gana los que hayan sido volcados sobre su cara.
 
 Una adaptacion de esta idea para nuestro objetivo seria la de demostrar una emoción y una parte del cuerpo. 
 
