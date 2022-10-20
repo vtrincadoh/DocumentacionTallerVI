@@ -104,6 +104,9 @@ Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 > Desarrollar reconocimiento emocional propio desde la propiocepción,
 > y la cinestesia; a través del juego en recreo
 
+# Entregables de trabajo
+<!-- WIP -->
+
 # Investigación realizada
 <!-- WIP -->
 
@@ -114,7 +117,7 @@ usuario es necesario especificar en profundidad los factores que lo
 componen. Para esto, se presentan a continuación sus características y
 necesidades
 
-**Características del usuario:**
+## Características del usuario:
 - Preadolescentes de 9 a 12 años
 - Presenta Nivel de gravedad TEA, Grado 1 (Según descrito en el DSM-5)
 - Cursa ^3ro^ a 6^to^ básico en una escuela especial
@@ -123,9 +126,8 @@ necesidades
 - Presenta una alta incidencia de comorbilidades
 - Presenta una disfunción en el sistema de recompensas
 - Posee una lenta capacidad de habituación
-
   
-**Necesidades del usuario:**
+## Necesidades del usuario:
 - Desarrollar habilidades sociales
 - Desarrollar habilidades de reconocimiento de emociones
 - Estimular y desarrollar la propiocepción y la cinestesia
@@ -172,6 +174,20 @@ Cartas que muestran distintos escenarios actuados en los cuales el usuario tiene
 ## Formas en Pareja
 Coreografía de pares que permite el desarrollo de la propiocepción y la comunicación de emociones en base al movimiento.
 
+# Requerimientos de diseño
+<!-- WIP -->
+- **Estimulación del sistema vestibular:**  
+  El producto debe aumentar la estimulación sensorial y la propiocepción del usuario.
+  
+- **Propicia reflexión emocional:**  
+  El producto debe propiciar que el usuario pueda identificar sus propias emociones dando enfasis a emociones básicas (ira, alegría y tristeza).
+  
+- **Producir actividad física y lúdica:**  
+  El producto debe incentivar la actividad física para su correcto uso.
+  
+- **Aumentar la interacción social efectiva:**  
+  El producto debe aumentar la interacción y comunicación entre los usuarios del producto.
+
 # Evaluación de propuestas
 ![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
 
@@ -189,23 +205,6 @@ propuesta que es igual de efectiva que el Chi Kung en algunos aspectos
 pero superior a el en otros.  <!-- WIP (Andrés)-->
 
 ![Diagrama explicativo de jugabilidad](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
-
-# Entregables de trabajo
-<!-- WIP -->
-
-# Requerimientos de diseño
-<!-- WIP -->
-- **Estimulación del sistema vestibular:**  
-  El producto debe aumentar la estimulación sensorial y la propiocepción del usuario.
-  
-- **Propicia reflexión emocional:**  
-  El producto debe propiciar que el usuario pueda identificar sus propias emociones dando enfasis a emociones básicas (ira, alegría y tristeza).
-  
-- **Producir actividad física y lúdica:**  
-  El producto debe incentivar la actividad física para su correcto uso.
-  
-- **Aumentar la interacción social efectiva:**  
-  El producto debe aumentar la interacción y comunicación entre los usuarios del producto.
 
 # Desarrollo de la maqueta
 A partir de los criterios anteriores, refinamos nuestra idea de *posta
