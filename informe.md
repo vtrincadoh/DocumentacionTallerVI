@@ -19,14 +19,13 @@ abstract: |
 geometry: margin=1in
 papersize: a4
 
-
 header-includes: |
 	\usepackage{graphicx}
 	\usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \setlength\headheight{25pt}
-	\lhead{\includegraphics[width=6cm]{./imgs/logo-usm.png}}
-	\rhead{\includegraphics[width=3cm]{./imgs/logo-did.png}}
+	\pagestyle{fancy}
+	\setlength\headheight{25pt}
+	\lhead{\includegraphics[width=6cm]{./imgs/logo/usm.png}}
+	\rhead{\includegraphics[width=3cm]{./imgs/logo/did.png}}
 
 bibliography: refs.bib
 
@@ -85,26 +84,40 @@ de bienestar emocional.
 
 Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 
-> **Objetivo General**  
-> Mejorar la convivencia en recreo entre niños con TEA, para mejorar su bienestar emocional a través de actividades de juego.
+## Objetivo General
 
-> **Objetivo Específico 1**  
+> Mejorar la convivencia en recreo entre niños con TEA, para mejorar su
+> bienestar emocional a través de actividades de juego.
+
+## Objetivo Específico 1
+
 > Desarrollar actividades de juego que propicien el alfabetismo en
 > salud mental en niños.
  
-> **Objetivo Específico 2**  
+## Objetivo Específico 2
+
 > Brindar herramientas que faciliten dinámicas de interacción social
 > enriquecedora en recreo.
  
-> **Objetivo Específico 3**  
+## Objetivo Específico 3
+
 > Desarrollar reconocimiento emocional propio desde la propiocepción,
 > y la cinestesia; a través del juego en recreo
- 
-# Usuario: Características y necesidades
-<!-- WIP -->
-Para tener un entendimiento más completo de nuestro usuario es necesario especificar en profundidad los factores que lo componen. Para esto, se presentan a continuación sus características y necesidades
 
-**Características del usuario:**
+# Entregables de trabajo
+<!-- WIP -->
+
+# Investigación realizada
+<!-- WIP -->
+
+# Usuario: Características y necesidades
+<!-- WIP --> 
+Para tener un entendimiento más completo de nuestro
+usuario es necesario especificar en profundidad los factores que lo
+componen. Para esto, se presentan a continuación sus características y
+necesidades
+
+## Características del usuario:
 - Preadolescentes de 9 a 12 años
 - Presenta Nivel de gravedad TEA, Grado 1 (Según descrito en el DSM-5)
 - Cursa ^3ro^ a 6^to^ básico en una escuela especial
@@ -113,13 +126,11 @@ Para tener un entendimiento más completo de nuestro usuario es necesario especi
 - Presenta una alta incidencia de comorbilidades
 - Presenta una disfunción en el sistema de recompensas
 - Posee una lenta capacidad de habituación
-
   
-**Necesidades del usuario:**
+## Necesidades del usuario:
 - Desarrollar habilidades sociales
 - Desarrollar habilidades de reconocimiento de emociones
 - Estimular y desarrollar la propiocepción y la cinestesia
-
 
 # Estado del arte y referentes
 <!-- WIP -->
@@ -152,7 +163,10 @@ Brindar conocimientos sobre salud mental para generar herramientas preventivas c
 <!-- WIP -->
 
 # Ideas proyectuales
-<!-- Describir in extenso -->
+
+<!-- Por favor, tengamos cuidado con los nombres acá pq se puede
+confundir con la otra sección-->
+
 ## Discos
 Muestran una emoción y una parte del cuerpo. 
 El usuario debe representar la emoción a través de sus expresiones verbales y no verbales.
@@ -162,18 +176,6 @@ Cartas que muestran distintos escenarios actuados en los cuales el usuario tiene
 
 ## Formas en Pareja
 Coreografía de pares que permite el desarrollo de la propiocepción y la comunicación de emociones en base al movimiento.
-
-
-# Evaluación de propuestas
-![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
-Luego de realizar la matriz Pugh pudimos evaluar las propuestas entre ellas usando al QiGong o Chi Kung como la base de dicha evaluación. Gracias a esto nos percatamos que la mas compatible entre ellas es el Baile Cooperativo y debajo de esta se encuentran los Discos Emocionales y los Tazos Emocionales.
-
-Como equipo decidimos evaluar también la fusión de ambas actividades, primero de forma directa sumando la puntuación de cada juego para describir su fusión y luego con un análisis mas centrado en nuestra idea: La Posta Emocional. De esta forma nos encontramos con una propuesta que es igual de efectiva que el Chi Kung en algunos aspectos pero superior a el en otros.
-<!-- WIP (Andrés)-->
-
-
-# Entregables de trabajo
-<!-- WIP -->
 
 # Requerimientos de diseño
 <!-- WIP -->
@@ -187,21 +189,59 @@ Como equipo decidimos evaluar también la fusión de ambas actividades, primero 
   El producto debe incentivar la actividad física para su correcto uso.
   
 - **Aumentar la interacción social efectiva:**  
-El producto debe aumentar la interacción y comunicación entre los usuarios del producto.
+  El producto debe aumentar la interacción y comunicación entre los usuarios del producto.
 
-# Render de la maqueta
-![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1")
+# Evaluación de propuestas
+A partir de los criterios anteriores, fue posible evaluar cuál de
+nuestras ideas de proyectuales resolvía mejor el problema de
+diseño. Esto se logró empleando una *Matriz de Pugh*, una sencilla
+herramienta que compara el rendimiento de las ideas contra un
+*baseline*. Para este ejercicio escogimos el **Chi Kung** como punto de
+referencia, por su estrecha relación entre cuerpo, mente, y emoción.
 
-![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna")
+![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
+
+Bajo esta métrica, la idea de Baile Cooperativo resultó la
+vencedora. Sin embargo, aprovechamos esta instancia también para refinar, combinar,
+y mutar nuestras ideas en búsqueda de una mejor puntuación en la
+matriz. Primero de forma inespecífica sumando la puntuación de cada juego para
+describir su fusión, y luego con un análisis focalizado, por cada uno
+de los criterios.
+
+El resultado de esto es lo que denominamos, la **Posta Emocional**. De
+esta forma nos encontramos con una propuesta que es igual de efectiva
+que el Chi Kung en algunos aspectos pero superior a él en otros.
+
+# Propuesta de diseño
+Lo que sigue es la descripción, y desarrollo concreto de la **Posta
+Emocional**.
+<!-- Agregar descripción. Ayudarse con el diagrama -->
+
+![Diagrama explicativo de jugabilidad](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
+
+## Maquetas
+Las primeras maquetas desarrollads tienen el objetivo de darle forma
+física a la idea. Al mismo tiempo, estas maquetas servirán para llevar
+a cabo la investigación aplicada del proyecto. Es decir, probar
+nuestras ideas con usuarios reales.
+
+En concreto, se realizaron dos render en *Blender*, y un prototipo
+Alpha.
+
+### Render
+
+![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }\ 
+![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
+
 <!-- WIP -->
 
-# Prototipo Alpha realizado
+### Prototipo Alpha
 <!-- WIP (Vicente)-->
 ![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
 
 
 <!-- WIP -->
-
+## Posibles puntos de fallo
 
 # Anexos
 <!-- WIP -->
@@ -210,4 +250,3 @@ El producto debe aumentar la interacción y comunicación entre los usuarios del
 
 # Bibliografía
 <!-- WIP -->
-
