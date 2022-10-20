@@ -152,7 +152,7 @@ Brindar conocimientos sobre salud mental para generar herramientas preventivas c
 <!-- WIP -->
 
 # Ideas proyectuales
-
+<!-- Describir in extenso -->
 ## Discos
 Muestran una emoción y una parte del cuerpo. 
 El usuario debe representar la emoción a través de sus expresiones verbales y no verbales.
