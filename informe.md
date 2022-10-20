@@ -200,6 +200,8 @@ El producto debe aumentar la interacción y comunicación entre los usuarios del
 
 ![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ width=6cm }
 
+![Actores del juego](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
+
 <!-- WIP -->
 
 # Prototipo Alpha realizado
