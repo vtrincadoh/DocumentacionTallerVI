@@ -205,24 +205,33 @@ pero superior a el en otros.  <!-- WIP (Andrés)-->
   El producto debe incentivar la actividad física para su correcto uso.
   
 - **Aumentar la interacción social efectiva:**  
-El producto debe aumentar la interacción y comunicación entre los usuarios del producto.
+  El producto debe aumentar la interacción y comunicación entre los usuarios del producto.
 
-# Render de la maqueta
-![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1")
+# Desarrollo de la maqueta
+A partir de los criterios anteriores, refinamos nuestra idea de *posta
+emocional*, y realizamos las primeras maquetas para darle una forma
+física. Al mismo tiempo, estas maquetas servirán para llevar a cabo la
+investigación aplicada del proyecto. Es decir, probar nuestras ideas
+con usuarios reales.
 
-![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ width=6cm }
+## Render de la maqueta
+En concreto, se realizó un render en *Blender*. El objetivo de esto es
+presentar visualmente la idea de proyecto.
 
-![Actores del juego](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
+![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }\ 
+![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
+
+filler <!-- filler -->
 
 <!-- WIP -->
 
-# Prototipo Alpha realizado
+## Prototipo Alpha realizado
 <!-- WIP (Vicente)-->
 ![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
 
 
 <!-- WIP -->
-
+## Posibles puntos de fallo
 
 # Anexos
 <!-- WIP -->
