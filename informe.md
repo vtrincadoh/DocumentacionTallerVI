@@ -84,18 +84,23 @@ de bienestar emocional.
 
 Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 
-> **Objetivo General**  
-> Mejorar la convivencia en recreo entre niños con TEA, para mejorar su bienestar emocional a través de actividades de juego.
+## Objetivo General
 
-> **Objetivo Específico 1**  
+> Mejorar la convivencia en recreo entre niños con TEA, para mejorar su
+> bienestar emocional a través de actividades de juego.
+
+## Objetivo Específico 1
+
 > Desarrollar actividades de juego que propicien el alfabetismo en
 > salud mental en niños.
  
-> **Objetivo Específico 2**  
+## Objetivo Específico 2
+
 > Brindar herramientas que faciliten dinámicas de interacción social
 > enriquecedora en recreo.
  
-> **Objetivo Específico 3**  
+## Objetivo Específico 3
+
 > Desarrollar reconocimiento emocional propio desde la propiocepción,
 > y la cinestesia; a través del juego en recreo
  
@@ -165,14 +170,13 @@ Cartas que muestran distintos escenarios actuados en los cuales el usuario tiene
 ## Formas en Pareja
 Coreografía de pares que permite el desarrollo de la propiocepción y la comunicación de emociones en base al movimiento.
 
-
 # Evaluación de propuestas
 ![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
-Luego de realizar la matriz Pugh pudimos evaluar las propuestas entre ellas usando al QiGong o Chi Kung como la base de dicha evaluación. Gracias a esto nos percatamos que la mas compatible entre ellas es el Baile Cooperativo y debajo de esta se encuentran los Discos Emocionales y los Tazos Emocionales.
+
+Luego de realizar la matriz Pugh pudimos evaluar las propuestas entre ellas usando al *QiGong*, o *Chi Kung*, como la base de dicha evaluación. Gracias a esto nos percatamos que la mas compatible entre ellas es el Baile Cooperativo y debajo de esta se encuentran los Discos Emocionales y los Tazos Emocionales.
 
 Como equipo decidimos evaluar también la fusión de ambas actividades, primero de forma directa sumando la puntuación de cada juego para describir su fusión y luego con un análisis mas centrado en nuestra idea: La Posta Emocional. De esta forma nos encontramos con una propuesta que es igual de efectiva que el Chi Kung en algunos aspectos pero superior a el en otros.
 <!-- WIP (Andrés)-->
-
 
 # Entregables de trabajo
 <!-- WIP -->
