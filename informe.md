@@ -19,14 +19,13 @@ abstract: |
 geometry: margin=1in
 papersize: a4
 
-
 header-includes: |
 	\usepackage{graphicx}
 	\usepackage{fancyhdr}
 	\pagestyle{fancy}
 	\setlength\headheight{25pt}
-	\lhead{\includegraphics[width=6cm]{./imgs/logos/usm.png}}
-	\rhead{\includegraphics[width=3cm]{./imgs/logos/did.png}}
+	\lhead{\includegraphics[width=6cm]{./imgs/logo/usm.png}}
+	\rhead{\includegraphics[width=3cm]{./imgs/logo/did.png}}
 
 bibliography: refs.bib
 
@@ -101,8 +100,11 @@ Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 > y la cinestesia; a través del juego en recreo
  
 # Usuario: Características y necesidades
-<!-- WIP -->
-Para tener un entendimiento más completo de nuestro usuario es necesario especificar en profundidad los factores que lo componen. Para esto, se presentan a continuación sus características y necesidades
+<!-- WIP --> 
+Para tener un entendimiento más completo de nuestro
+usuario es necesario especificar en profundidad los factores que lo
+componen. Para esto, se presentan a continuación sus características y
+necesidades
 
 **Características del usuario:**
 - Preadolescentes de 9 a 12 años
@@ -192,7 +194,8 @@ El producto debe aumentar la interacción y comunicación entre los usuarios del
 # Render de la maqueta
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1")
 
-![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna")
+![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ width=6cm }
+
 <!-- WIP -->
 
 # Prototipo Alpha realizado
@@ -210,4 +213,3 @@ El producto debe aumentar la interacción y comunicación entre los usuarios del
 
 # Bibliografía
 <!-- WIP -->
-
