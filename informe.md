@@ -39,7 +39,6 @@ To-do:
 * Agregar EDT
 * Agregar Investigación realizada (Sincerar faltas!)
 * Agregar Principios de selección @ Propuesta de diseño
-* Agregar descripción de las maquetas (Leer lo que ya está escrito)
 * Agregar contexto del problema (Hay solo del ramo!)
 
 [Necesario]
@@ -277,7 +276,7 @@ puede ser un profesor, coeducador, o inspector.
 <!-- Por qué cumple los requerimientos -->
 
 ## Maquetas
-Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisico al juego, tienen el objetivo de darle forma física a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo la investigación aplicada del proyecto. Es decir, probar nuestras ideas con usuarios reales para luego aprender de la experiencia y realizar otra iteracion.
+Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisico al juego, tienen el objetivo de darle forma física a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo la investigación aplicada del proyecto. Es decir, probar nuestras ideas con usuarios reales para luego aprender, y realizar otra iteración.
 
 Se realizaron dos tipos de maquetas, un prototipo Alpha, y un render
 en *Blender*. Por brevedad se adjuntan imágenes del resultado de este
