@@ -5,9 +5,11 @@ author:
 - 'Luciano Roque V.'
 - 'Vicente Trincado H.'
 - 'Ricardo Valdés P.'
-institute:
-- 'Departamento de Ingeniería en Diseño - Universidad Técnica Federico Santa María'
+
 date: Octubre 21, 2022
+bibliography: refs.bib
+
+lang: es
 
 numbersections: true
 
@@ -18,7 +20,6 @@ abstract: |
 
 geometry: margin=1in
 papersize: a4
-lang: es
 
 header-includes: |
 	\usepackage{graphicx}
@@ -27,8 +28,6 @@ header-includes: |
 	\setlength\headheight{25pt}
 	\lhead{\includegraphics[width=6cm]{./imgs/logo/usm.png}}
 	\rhead{\includegraphics[width=3cm]{./imgs/logo/did.png}}
-
-bibliography: refs.bib
 
 ---
 <!-- 
@@ -146,7 +145,7 @@ necesidades
 ## Características del usuario:
 - Preadolescentes de 9 a 12 años
 - Presenta Nivel de gravedad TEA, Grado 1 (Según descrito en el DSM-5)
-- Cursa ^3ro^ a 6^to^ básico en una escuela especial
+- Cursa 3^ro^ a 6^to^ básico en una escuela especial
 - Tiene amistades TEA
 - Posee un Coeficiente Intelectual superior o igual a 80
 - Presenta una alta incidencia de comorbilidades
@@ -162,7 +161,13 @@ necesidades
 # Estado del arte y referentes
 <!-- WIP -->
 ## Tazos:
-Son figuras circulares los cuales muestran una imagen asociados a distintas tematicas (Por lo general caricaturas para llamar la atencion de los niños). Su uso consiste, ademas de tener un aspecto coleccionable, en apostar tazos situandolos en el piso junto a la apuesta del contrincante y lanzar un tazo de su arsenal para intentar dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno mas tazos gana los que hayan sido volcados sobre su cara.
+Son figuras circulares los cuales muestran una imagen asociados a
+distintas tematicas (Por lo general caricaturas para llamar la
+atencion de los niños). Su uso consiste, ademas de tener un aspecto
+coleccionable, en apostar tazos situandolos en el piso junto a la
+apuesta del contrincante y lanzar un tazo de su arsenal para intentar
+dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno
+mas tazos gana los que hayan sido volcados sobre su cara.
 
 Una adaptacion de esta idea para nuestro objetivo seria la de demostrar una emoción y una parte del cuerpo. 
 
@@ -172,13 +177,18 @@ Juego de mesa en el cual el objetivo es adivinar una carta a partir de una pista
 La adaptacion de este referente consistiria en cartas que muestran distintos escenarios en los cuales el usuario tiene que identificar las emociones producidas.
 
 ## Chi Kung:
-Terapia medicinal tradicional china, centrada en la regulación de la respiración en conjunto de una serie de movimientos enlazados, muy similar a la realización del Tai chi.
+Terapia medicinal tradicional china, centrada en la regulación de la
+respiración en conjunto de una serie de movimientos enlazados, muy
+similar a la realización del Tai Chi.
 
-La adaptación del chi kung se encuentra en la propiocepción al momento de realizar los distintos movimientos.
+La adaptación del Chi Kung se encuentra en la propiocepción al momento de realizar los distintos movimientos.
 
 # Oportunidad visualizada
-<!-- WIP -->
-A través de las investigaciones realizadas se logro identificar la falta de herramientas de ayuda emocional, y la propención a la depresión y la ansiedad de personas TEA, identificando la siguiente oportunidad:
+<!-- WIP --> 
+A través de las investigaciones realizadas se logró
+identificar la falta de herramientas de ayuda emocional, y la
+propención a la depresión y la ansiedad de personas TEA, identificando
+la siguiente oportunidad:
 
 Brindar conocimientos sobre salud mental para generar herramientas preventivas contra transtornos emocionales
 
@@ -281,7 +291,7 @@ Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisi
 
 Se realizaron dos tipos de maquetas, un prototipo Alpha, y un render
 en *Blender*. Por brevedad se adjuntan imágenes del resultado de este
-proceso en la sección [imágenes de maquetas](imágenes-de-maquetas), en el Anexo.
+proceso en la sección [**Imágenes de maquetas**](#imágenes-de-maquetas), en el Anexo.
 
 <!-- WIP -->
 ## Posibles puntos de fallo
@@ -301,18 +311,22 @@ Considerando nuestras decisiones de diseño, existen ciertos factores en los que
 ### Protoipo Alpha
 
 #### Cartas
+
 ![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
 
 #### Testigo
+
 ![Prototipo Alpha de mancuerna. Cartón y rocas pequeñas](./imgs/alpha/mancuerna.jpg "Mancuerna Alpha"){ width=8cm }
 
 ### Renders
 
 #### Render general
+
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
 
 #### Testigo - sección
+
 ![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
 
-# Bibliografía
+# Referencias
 <!-- WIP -->
