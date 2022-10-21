@@ -367,7 +367,12 @@ puede ser un profesor, coeducador, o inspector.
 <!-- Por qué cumple los requerimientos -->
 
 ## Maquetas
-Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisico al juego, tienen el objetivo de darle forma física a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo la investigación aplicada del proyecto. Es decir, probar nuestras ideas con usuarios reales para luego aprender de la experiencia y realizar otra iteracion.
+Las primeras maquetas desarrolladas constituyen nuestro primer
+acercamiento fisico al juego, tienen el objetivo de darle forma física
+a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo
+la investigación aplicada del proyecto. Es decir, probar nuestras
+ideas con usuarios reales para luego aprender de la experiencia y
+realizar otra iteracion.
 
 Se realizaron dos tipos de maquetas, un prototipo Alpha, y un render
 en *Blender*. Por brevedad se adjuntan imágenes del resultado de este
@@ -375,7 +380,10 @@ proceso en la sección [**Imágenes de maquetas**](#imágenes-de-maquetas), en e
 
 <!-- WIP -->
 ## Posibles puntos de fallo
-Considerando nuestras decisiones de diseño, existen ciertos factores en los que aún no se tiene seguridad de éxito. A continuación, se presentan los puntos de fallo que ya han sido contemplados para validar y/o resolver a la hora de realizar la siguiente iteración.
+Considerando nuestras decisiones de diseño, existen ciertos factores
+en los que aún no se tiene seguridad de éxito. A continuación, se
+presentan los puntos de fallo que ya han sido contemplados para
+validar y/o resolver a la hora de realizar la siguiente iteración.
 
 - Es incierto si los niños TEA participan de juegos cooperativos.
 - Las mancuernas no son integrales a la actividad de juego.
