@@ -5,11 +5,11 @@ author:
 - 'Luciano Roque V.'
 - 'Vicente Trincado H.'
 - 'Ricardo Valdés P.'
+institute:
+- 'Departamento de Ingeniería en Diseño - Universidad Técnica Federico Santa María'
 date: Octubre 21, 2022
 
 numbersections: true
-toc: true
-toc-title: Índice
 
 abstract: |
  En este documento se describe el proceso de diseño del 
@@ -18,6 +18,7 @@ abstract: |
 
 geometry: margin=1in
 papersize: a4
+lang: es
 
 header-includes: |
 	\usepackage{graphicx}
@@ -37,6 +38,12 @@ To-do:
 * Rehacer la matriz Pugh (Esta incoherente)
 * Ideas proyectuales [Trincado]
 -->
+
+<!-- Historial de revisión -->
+
+\pagebreak
+\tableofcontents
+\pagebreak
 
 # Introducción
 <!-- WIP -->
@@ -73,7 +80,6 @@ El equipo consta de cuatro individuos:
    del proyecto, participa en todas las esferas para velar por la
    buena ejecución del proyecto. Además es líder de investigación
    secundaria.
-<!-- Sacado directamente de overview.md -->
 <!-- WIP -->
 
 # Objetivos del proyecto
