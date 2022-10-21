@@ -37,15 +37,15 @@ To-do:
 * Agregar Introducción
 * Agregar EDT
 * Agregar Investigación realizada (Sincerar faltas!)
-* Agregar descripción de propuesta de diseño
+* Agregar Principios de selección @ Propuesta de diseño
 * Agregar descripción de las maquetas (Leer lo que ya está escrito)
 * Agregar contexto del problema (Hay solo del ramo!)
 
 [Necesario]
 * Revisar sección Estado del Arte, y referentes
 * Revisar necesidades del usuario
-* Agregar puntos de fallo
 * Modificaciones al EDT
+* Arreglar fotos corridas
 
 [Deseable]
 * Redacción/ortografía
@@ -240,10 +240,7 @@ Emocional**.
 ![Diagrama explicativo de jugabilidad](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
 
 ## Maquetas
-Las primeras maquetas desarrollads tienen el objetivo de darle forma
-física a la idea. Al mismo tiempo, estas maquetas servirán para llevar
-a cabo la investigación aplicada del proyecto. Es decir, probar
-nuestras ideas con usuarios reales.
+Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisico al juego, tienen el objetivo de darle forma física a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo la investigación aplicada del proyecto. Es decir, probar nuestras ideas con usuarios reales para luego aprender de la experiencia y realizar otra iteracion.
 
 En concreto, se realizaron dos render en *Blender*, y un prototipo
 Alpha.
@@ -262,7 +259,6 @@ Alpha.
 
 <!-- WIP -->
 ## Posibles puntos de fallo
-<!-- WIP -->
 Considerando nuestras decisiones de diseño, existen ciertos factores en los que aún no se tiene seguridad de éxito. A continuación, se presentan los puntos de fallo que ya han sido contemplados para validar y/o resolver a la hora de realizar la siguiente iteración.
 
 - Es incierto si los niños TEA participan de juegos cooperativos.
