@@ -225,7 +225,7 @@ reagendar todas estas interacciones para el día 26 de octubre del
 presente año.
 
 Se incluyen las preguntas para la entrevista con profesores en la
-sección [**Preguntas de entrevista a profesores**](./preguntas-entrevista.md).
+sección [**Preguntas de entrevista a profesores**](#preguntas-entrevista).
 
 # Usuario: Características y necesidades
 <!-- WIP --> 
@@ -428,7 +428,7 @@ validar y/o resolver a la hora de realizar la siguiente iteración.
 
 ![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
 
-## Preguntas de entrevista a profesores
+## Preguntas de entrevista a profesores {#preguntas-entrevista}
 
 ### Introducción
 **L:** Hola soy Luciano, ¿Cómo estás?  
