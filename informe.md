@@ -37,9 +37,9 @@ To-do:
 [Imprescindible]
 * Agregar Introducción
 * Agregar EDT
-* Agregar Investigación realizada (Sincerar faltas!)
+* Agregar Investigación realizada (Sincerar faltas!) [Trincado]
 * Agregar Principios de selección @ Propuesta de diseño
-* Agregar contexto del problema (Hay solo del ramo!)
+* Agregar contexto del problema (Hay solo del ramo!) [Andriu]
 
 [Necesario]
 * Revisar sección Estado del Arte, y referentes
@@ -74,12 +74,14 @@ una continuación del trabajo realizado en Taller V; en el cual los estudiantes
 determinaron necesidades existentes dentro de la *Escuela Especial de 
 Desarrollo de La Reina* (En adelante, *La Escuela*), un establecimiento educacional 
 diferencial de organización municipal situado en la ciudad de Santiago. 
-*La Escuela* fue generosa en compartir sus actividades, experiencias, conocimientos,
-y disponibilidad de sus alumnos.
 
 El objetivo de Taller VI es reconocer, y desarrollar nuevas soluciones en
 el área de inclusión; utilizando a *La Escuela* como espacio de investigación
-y testeo.
+y testeo. 
+ *La Escuela* fue generosa a la hora de compartir sus actividades, experiencias, conocimientos,
+y disponibilidad de sus alumnos y profesores para deasarrollar este proyecto.
+
+Luego de una extensa investigación sobre el usuario y sobre los dolores que experimentan y, considerando además la reciente pandemia de Covid-19, se hizo evidente el deseo de mejorar la salud mental de los alumnos de la escuela para, de esta forma, ayudar en su desarrollo personal y propiciar mejores posibilidades a la hora de integrarse a la sociedad. A esto se le suma que las personas con autismo tienen cuatro veces más posibilidades de desarrollar depresión que la población general. Debido a que es una enfermedad crónica es sumamente importante la intervención temprana para evitarla. De todo esto nace nuestro problema: Los adolescentes TEA tienen dificultad para desarrollar herramientas sanas de afrontamiento emocional, haciéndolos más propensos a la ansiedad y la depresión.
 
 <!-- Falta contexto del problema -->
 
