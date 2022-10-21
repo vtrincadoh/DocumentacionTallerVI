@@ -412,9 +412,13 @@ validar y/o resolver a la hora de realizar la siguiente iteración.
 
 #### Cartas
 
-![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
+Cartas
+
+![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha"){ width=100% }
 
 #### Testigo
+
+Testigo
 
 ![Prototipo Alpha de mancuerna. Cartón y rocas pequeñas](./imgs/alpha/mancuerna.jpg "Mancuerna Alpha"){ width=8cm }
 
@@ -422,9 +426,13 @@ validar y/o resolver a la hora de realizar la siguiente iteración.
 
 #### Render general
 
+Render general
+
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
 
 #### Testigo - sección
+
+Testigo - sección
 
 ![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
 
