@@ -13,8 +13,8 @@ numbersections: true
 
 abstract: |
  En este documento se describe el proceso de diseño del 
- grupo 3, de la asignatura Taller de Productos VI. El producto
- de este proceso es una maqueta, y prototipo Alpha.
+ grupo 3, de la asignatura Taller de Productos VI.El proyecto consiste en ayudar a Pre-adolescentes con D.C (Discapacidad Cognitiva) en especifico niños con trastorno del espectro autista (TEA) en el colegio, para mejorar sus interacciones sociales mediante actividades ludico-educativas para combatir de manera efectiva las sensaciones negativas como estrés, depresión y/o ansiedad.Impactando así el bienestar emocional personal de los alumnos. El producto
+de este proceso es una maqueta, y prototipo Alpha.
 
 geometry: margin=1in
 papersize: a4
@@ -39,10 +39,10 @@ To-do:
 * Agregar EDT
 * Agregar Investigación realizada (Sincerar faltas!) [Trincado]
 * Agregar Principios de selección @ Propuesta de diseño
-* Agregar contexto del problema (Hay solo del ramo!) [Andriu]
+
 
 [Necesario]
-* Revisar sección Estado del Arte, y referentes
+* Agregar contexto del problema (Revisar la parte del problema, lo del ramo ta bn)
 * Revisar necesidades del usuario
 * Modificaciones al EDT
 * Arreglar fotos corridas
@@ -63,9 +63,6 @@ To-do:
 \pagebreak
 \tableofcontents
 \pagebreak
-
-# Introducción
-<!-- WIP -->
 
 # Contexto del problema
 Este proyecto es parte de la asignatura Taller VI de la carrera
@@ -159,23 +156,24 @@ necesidades
 - Desarrollar habilidades sociales
 - Desarrollar habilidades de reconocimiento de emociones
 - Estimular y desarrollar la propiocepción y la cinestesia
+  
 
 # Estado del arte y referentes
 <!-- WIP -->
 ## Tazos:
-Son figuras circulares los cuales muestran una imagen asociados a distintas tematicas (Por lo general caricaturas para llamar la atencion de los niños). Su uso consiste, ademas de tener un aspecto coleccionable, en apostar tazos situandolos en el piso junto a la apuesta del contrincante y lanzar un tazo de su arsenal para intentar dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno mas tazos gana los que hayan sido volcados sobre su cara.
+Son figuras circulares los cuales muestran una imagen asociados a distintas tematicas (Por lo general caricaturas para llamar la atencion de los niños). Su uso consiste, ademas de tener un aspecto coleccionable, en apostar tazos situandolos en el piso junto a la apuesta del contrincante y lanzar un tazo de su arsenal para intentar dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno o mas tazos, gana los que hayan sido volcados sobre su cara.
 
 Una adaptacion de esta idea para nuestro objetivo seria la de demostrar una emoción y una parte del cuerpo. 
 
 ## Dixit:
-Juego de mesa en el cual el objetivo es adivinar una carta a partir de una pista entregada en forma de frase o narracion.
+Juego de mesa en el cual el objetivo es adivinar una carta a partir de una pista entregada en forma de frase o narración.
 
 La adaptacion de este referente consistiria en cartas que muestran distintos escenarios en los cuales el usuario tiene que identificar las emociones producidas.
 
 ## Chi Kung:
 Terapia medicinal tradicional china, centrada en la regulación de la respiración en conjunto de una serie de movimientos enlazados, muy similar a la realización del Tai chi.
 
-La adaptación del chi kung se encuentra en la propiocepción al momento de realizar los distintos movimientos.
+En este caso particular, la única adaptación seria centrar la actividad menos en la respiración y más en  la propiocepción al momento de realizar los distintos movimientos.
 
 # Oportunidad visualizada
 <!-- WIP -->
@@ -184,10 +182,18 @@ A través de las investigaciones realizadas se logro identificar la falta de her
 Brindar conocimientos sobre salud mental para generar herramientas preventivas contra transtornos emocionales
 
 # Necesidades específicas
- 1. Ergonomía
- 1. Familiaridad
- 1. Sociabilidad
- 1. Seguridad
+ 1. Ergonomía:
+    El producto debe considerar la medidas antropométricas del     rango etario proyectado para el diseño e implementación del producto.
+    
+ 1. Familiaridad:
+  El producto debe permitir que el usuario identifique facilmente los códigos usados por el producto con la finalidad de facilitar la interacción y que el producto adquiera un condición intuitiva.
+    
+ 1. Sociabilidad:
+Se debe incentivar la interacción social efectiva a través del producto como articulador.
+    
+ 1. Seguridad:
+Se deben considerar los malos usos del producto, como así también los riesgos asociados en el uso y desempeño del mismo para su posterior diseño.
+    
 <!-- WIP -->
 
 # Ideas proyectuales
@@ -244,7 +250,7 @@ que el Chi Kung en algunos aspectos pero superior a él en otros.
 Lo que sigue es la descripción, y desarrollo concreto de la **Posta
 Emocional**. Posta Emocional es un juego colaborativo-competitivo, que
 prueba el conocimiento de los jugadores sobre su propio cuerpo, y
-mente. Al final del juego ganarán los jugadores que mejor sepan
+mente. Al final del juego ganarán el equipo que mejor sepa
 comunicar sus emociones con su cuerpo.
 
 ## Reglas del juego
@@ -276,6 +282,7 @@ puede ser un profesor, coeducador, o inspector.
 ## Principios de Selección
 <!-- WIP -->
 <!-- Por qué cumple los requerimientos -->
+
 
 ## Maquetas
 Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisico al juego, tienen el objetivo de darle forma física a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo la investigación aplicada del proyecto. Es decir, probar nuestras ideas con usuarios reales para luego aprender, y realizar otra iteración.
