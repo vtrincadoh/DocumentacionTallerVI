@@ -32,10 +32,30 @@ bibliography: refs.bib
 ---
 <!-- 
 To-do:
-* Casi todo
-* Usuarios: caracteristicas, necesidades [Andrés]
+
+[Imprescindible]
+* Agregar Introducción
+* Agregar EDT
+* Agregar Investigación realizada (Sincerar faltas!)
+* Agregar descripción de propuesta de diseño
+* Agregar descripción de las maquetas (Leer lo que ya está escrito)
+* Agregar contexto del problema (Hay solo del ramo!)
+
+[Necesario]
+* Revisar sección Estado del Arte, y referentes
+* Revisar necesidades del usuario
+* Agregar puntos de fallo
+* Modificaciones al EDT
+
+[Deseable]
+* Redacción/ortografía
+* Revisar títulos de referentes
+* Revisar títulos de ideas proyectuales
+* Por favor, cambiemos el nombre de la Posta Emocional
+
+[Si sobra tiempo]
 * Rehacer la matriz Pugh (Esta incoherente)
-* Ideas proyectuales [Trincado]
+
 -->
 
 # Introducción
@@ -55,7 +75,7 @@ El objetivo de Taller VI es reconocer, y desarrollar nuevas soluciones en
 el área de inclusión; utilizando a *La Escuela* como espacio de investigación
 y testeo.
 
-<!-- WIP -->
+<!-- Falta contexto del problema -->
 
 # Equipo de trabajo
 El equipo consta de cuatro individuos:
@@ -73,7 +93,6 @@ El equipo consta de cuatro individuos:
    del proyecto, participa en todas las esferas para velar por la
    buena ejecución del proyecto. Además es líder de investigación
    secundaria.
-<!-- Sacado directamente de overview.md -->
 <!-- WIP -->
 
 # Objetivos del proyecto
@@ -128,6 +147,7 @@ necesidades
 - Posee una lenta capacidad de habituación
   
 ## Necesidades del usuario:
+<!-- Revisar esto -->
 - Desarrollar habilidades sociales
 - Desarrollar habilidades de reconocimiento de emociones
 - Estimular y desarrollar la propiocepción y la cinestesia
@@ -242,6 +262,15 @@ Alpha.
 
 <!-- WIP -->
 ## Posibles puntos de fallo
+<!-- WIP -->
+Considerando nuestras decisiones de diseño, existen ciertos factores en los que aún no se tiene seguridad de éxito. A continuación, se presentan los puntos de fallo que ya han sido contemplados para validar y/o resolver a la hora de realizar la siguiente iteración.
+
+- Es incierto si los niños TEA participan de juegos cooperativos.
+- Las mancuernas no son integrales a la actividad de juego.
+- La falta de supervisión puede llegar a ser un problema.
+- Validación pendiente, que el juego sea divertido.
+- Dificultades de implementación al contar con piezas sueltas.
+- Seguridad en el uso de mancuernas.
 
 # Anexos
 <!-- WIP -->
