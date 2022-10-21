@@ -220,39 +220,73 @@ que el Chi Kung en algunos aspectos pero superior a él en otros.
 
 # Propuesta de diseño
 Lo que sigue es la descripción, y desarrollo concreto de la **Posta
-Emocional**.
-<!-- Agregar descripción. Ayudarse con el diagrama -->
+Emocional**. Posta Emocional es un juego colaborativo-competitivo, que
+prueba el conocimiento de los jugadores sobre su propio cuerpo, y
+mente. Al final del juego ganarán los jugadores que mejor sepan
+comunicar sus emociones con su cuerpo.
+
+## Reglas del juego
+La actividad se juega con un **testigo**, y un set de cartas. Existen
+dos tipos de cartas que se usan en conjunto, en unas figura una
+**emoción**, y en otras una **parte del cuerpo**.
+
+![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
+
+Los jugadores se dividen en dos equipos. Para cada ronda, ambos
+equipos se enfrentarán en competencia, representados en cada ronda por
+uno de sus miembros, que llevará el **testigo**. Ambos representantes
+deberán sacar una **carta de emoción**, y una **carta de cuerpo**. A
+continuación, mostrarán la carta de cuerpo al resto de su equipo;
+mientras que la carta de emoción continúa secreta.
 
 ![Diagrama explicativo de jugabilidad](./imgs/render/maq1/diagrama-juego.png "Diagrama de juego")
 
+Los representantes deben luego intentar comunicar a su equipo la
+emoción representada en la carta de emoción a través de la mímica,
+pero empleando solamente la parte del cuerpo mostrada en la carta de
+cuerpo.
+
+El equipo que correctamente adivina la emoción de la carta gana un
+punto, y avanza a la siguiente ronda. Para moderar la experiencia, el
+juego cuenta con un **Árbitro**, que dependiendo del contexto de uso
+puede ser un profesor, coeducador, o inspector.
+
+## Principios de Selección
+<!-- WIP -->
+<!-- Por qué cumple los requerimientos -->
+
 ## Maquetas
-Las primeras maquetas desarrollads tienen el objetivo de darle forma
+Las primeras maquetas desarrolladas tienen el objetivo de darle forma
 física a la idea. Al mismo tiempo, estas maquetas servirán para llevar
 a cabo la investigación aplicada del proyecto. Es decir, probar
 nuestras ideas con usuarios reales.
 
-En concreto, se realizaron dos render en *Blender*, y un prototipo
-Alpha.
-
-### Render
-
-![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }\ 
-![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
-
-<!-- WIP -->
-
-### Prototipo Alpha
-<!-- WIP (Vicente)-->
-![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
-
+Se realizaron dos tipos de maquetas, un prototipo Alpha, y un render
+en *Blender*. Por brevedad se adjuntan imágenes del resultado de este
+proceso en la sección [imágenes de maquetas](imágenes-de-maquetas), en el Anexo.
 
 <!-- WIP -->
 ## Posibles puntos de fallo
 
 # Anexos
 <!-- WIP -->
-## Imágen de prototipo Alpha de mancuerna
-![Prototipo Alpha de mancuerna. Cartón y rocas pequeñas](./imgs/alpha/mancuerna.jpg "Mancuerna Alpha")
+## Imágenes de maquetas
+
+### Protoipo Alpha
+
+#### Cartas
+![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
+
+#### Testigo
+![Prototipo Alpha de mancuerna. Cartón y rocas pequeñas](./imgs/alpha/mancuerna.jpg "Mancuerna Alpha"){ width=8cm }
+
+### Renders
+
+#### Render general
+![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
+
+#### Testigo - sección
+![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
 
 # Bibliografía
 <!-- WIP -->
