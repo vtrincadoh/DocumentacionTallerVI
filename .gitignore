@@ -2,3 +2,7 @@
 ./build/
 *.pdf
 *.html
+
+# Renderer
+*.sh
+*.csl

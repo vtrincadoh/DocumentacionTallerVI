@@ -5,9 +5,11 @@ author:
 - 'Luciano Roque V.'
 - 'Vicente Trincado H.'
 - 'Ricardo Valdés P.'
-institute:
-- 'Departamento de Ingeniería en Diseño - Universidad Técnica Federico Santa María'
+
 date: Octubre 21, 2022
+bibliography: refs.bib
+
+lang: es
 
 numbersections: true
 
@@ -18,7 +20,6 @@ de este proceso es una maqueta, y prototipo Alpha.
 
 geometry: margin=1in
 papersize: a4
-lang: es
 
 header-includes: |
 	\usepackage{graphicx}
@@ -27,8 +28,6 @@ header-includes: |
 	\setlength\headheight{25pt}
 	\lhead{\includegraphics[width=6cm]{./imgs/logo/usm.png}}
 	\rhead{\includegraphics[width=3cm]{./imgs/logo/did.png}}
-
-bibliography: refs.bib
 
 ---
 <!-- 
@@ -126,13 +125,105 @@ Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 ## Objetivo Específico 3
 
 > Desarrollar reconocimiento emocional propio desde la propiocepción,
-> y la cinestesia; a través del juego en recreo
+> y la cinestesia; a través del juego en recreo.
 
 # Entregables de trabajo
 <!-- WIP -->
 
 # Investigación realizada
-<!-- WIP -->
+La investigión realizada hasta a la fecha ha tenido el objetivo de
+determinar concretamente el perfil de usuario, y sus respectivas
+necesidades. En el camino también fue posible aprender, y en
+consecuencia, refinar nuestros objetivos específicos para resolver
+mejor el problema de diseño.[^obj-esp3-old]
+
+[^obj-esp3-old]: El Objetivo Específico 3 solía ser: *"Aumentar el acercamiento social entre niños TEA a través de juegos como articulador de comunicación fuera del aula."*
+
+Desafortunadamente, no se logró la intención de triangular la
+información obtenida por investigación básica, con la investigación
+etnográfica. Se discute la situación en mayor detalle en la sección
+[**Investigación Etnográfica**](#investigación-etnográfica).
+
+## Investigación básica
+
+### Depresión y ansiedad
+La primera búsqueda trata sobre la incidencia de trastornos mentales
+en la población autista. Efectivamente, las personas con autismo
+tienen cuatro veces más posibilidades de desarrollar depresión que la
+población general y es considerada la afección de salud mental más
+frecuente en personas con trastornos del espectro autista
+(TEA). [@ruggieri_autismo_2020]
+
+Actualmente es difícil diagnosticar trastornos despresión y ansiedad,
+puesto que su sintamotología coincide en varios aspectos con los
+propios síntomas del trastorno del espectro autista, y de sus
+**comorbilidades comunes**, como el TDAH, TOC, TND, Fobias específicas,
+etc.
+
+Al mismo tiempo, se ha detectado una relación entre la prevalencia de
+depresión, y funcionalidad grado de funcionalidad. En concreto, son
+factores determinantes el **grado de severidad** (según DSM-V), y el
+**coeficiente intelectual**.
+
+Varios estudios sugieren una relación entre la edad, y la aparición de
+trastornos, poniendo atención en los períodos de adolescencia, y
+preadolesencia. Sin embargo, no se han llevado a cabo estudios
+focalizados, o conclusivos. [@magnuson_characterization_2011]
+
+### Procesamiento sensorial	
+Existe un sinnúmero de recursos que estipulan la relación entre la
+**percepción corporal**, y emocional; bajo el término paraguas de
+alexitimia. Por brevedad, no se incluye más documentación referido a
+este tema en este documento. 
+
+#### Regulación emocional
+Se ha postulado que las anormalidades en el proceso de **regulación de
+emociones** tiene un efecto substancial sobre el estado anímico en
+TEA. Especialmente niños y adolescentes en el espectro experimentan
+sentimientos de soledad, pero no se sienten interesados en sus pares,
+o son incapacez de iniciar o sostener
+amistades.[ @magnuson_characterization_2011]
+
+Los desordenes emocionales y sensaciones de soledad pueden ser
+explicados como una aberración en el **sistema de recompensa
+social**. Estudios demuestran que la población TEA sufre de mayor
+grado de anhedonia social, y no social que la población neurotípica; y
+que se podría considerar un predictor más fuerte de trastornos
+depresivos para personas TEA que neurotípicas. [@han_social_2019]
+
+#### Sistema Propioceptivo
+Se ha identificado en diversos estudios con niños TEA, que más de el
+86% de ellos demuestra riesgos de deficiencias motor que no se
+resuelven en la adolescencia. Son además, menos activos físicamente
+que niños neurotípicos, y tienden a abordar comportamientos
+sedentarios, que resultan en mayores riesgos a la salud física y
+mental. [@hilton_sensory_2022]
+
+#### Habituación sensorial
+Son destacables los actuales estudios sobre exitación sensorial en
+pacientes TEA. La actual hipótesis mecanística sobre la híper, e hipo
+reactividad ante estímulos sensoriales sugiere que esta sensibilidad
+anormal nace no de diferencias instantáneas en los umbrales
+sensoriales, sino de cómo se procesan estos estímulos en el tiempo. En
+específico, se hipotetiza que el autismo puede estar relacionado con
+una reducción en la capacidad habituación sensorial. Es decir, con la
+capacidad de tener una respuesta progresivamente menor ante estímulos
+repetitivos. [@jamal_reduced_2021]
+
+## Investigación etnográfica
+Durante el semestre pasado se llevaron a cabo tres instancias de
+observación no participante, aunque no de forma rigurosa. Para esta
+ocasión fue necesario comparar, y validar la información obtenida a
+partir de la investigación básica.
+
+Se planificaron dos tipos de entrevistas, además de una instancia de
+investigación no participante. Sin embargo, por motivos de fuerza
+mayor no se pudieron llevar a cabo. De todas formas, fue posible
+reagendar todas estas interacciones para el día 26 de octubre del
+presente año.
+
+Se incluyen las preguntas para la entrevista con profesores en la
+sección [**Preguntas de entrevista a profesores**](#preguntas-entrevista).
 
 # Usuario: Características y necesidades
 <!-- WIP --> 
@@ -144,7 +235,7 @@ necesidades
 ## Características del usuario:
 - Preadolescentes de 9 a 12 años
 - Presenta Nivel de gravedad TEA, Grado 1 (Según descrito en el DSM-5)
-- Cursa ^3ro^ a 6^to^ básico en una escuela especial
+- Cursa 3^ro^ a 6^to^ básico en una escuela especial
 - Tiene amistades TEA
 - Posee un Coeficiente Intelectual superior o igual a 80
 - Presenta una alta incidencia de comorbilidades
@@ -161,7 +252,13 @@ necesidades
 # Estado del arte y referentes
 <!-- WIP -->
 ## Tazos:
-Son figuras circulares los cuales muestran una imagen asociados a distintas tematicas (Por lo general caricaturas para llamar la atencion de los niños). Su uso consiste, ademas de tener un aspecto coleccionable, en apostar tazos situandolos en el piso junto a la apuesta del contrincante y lanzar un tazo de su arsenal para intentar dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno o mas tazos, gana los que hayan sido volcados sobre su cara.
+Son figuras circulares los cuales muestran una imagen asociados a
+distintas tematicas (Por lo general caricaturas para llamar la
+atencion de los niños). Su uso consiste, ademas de tener un aspecto
+coleccionable, en apostar tazos situandolos en el piso junto a la
+apuesta del contrincante y lanzar un tazo de su arsenal para intentar
+dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno
+mas tazos gana los que hayan sido volcados sobre su cara.
 
 Una adaptacion de esta idea para nuestro objetivo seria la de demostrar una emoción y una parte del cuerpo. 
 
@@ -171,13 +268,18 @@ Juego de mesa en el cual el objetivo es adivinar una carta a partir de una pista
 La adaptacion de este referente consistiria en cartas que muestran distintos escenarios en los cuales el usuario tiene que identificar las emociones producidas.
 
 ## Chi Kung:
-Terapia medicinal tradicional china, centrada en la regulación de la respiración en conjunto de una serie de movimientos enlazados, muy similar a la realización del Tai chi.
+Terapia medicinal tradicional china, centrada en la regulación de la
+respiración en conjunto de una serie de movimientos enlazados, muy
+similar a la realización del Tai Chi.
 
 En este caso particular, la única adaptación seria centrar la actividad menos en la respiración y más en  la propiocepción al momento de realizar los distintos movimientos.
 
 # Oportunidad visualizada
-<!-- WIP -->
-A través de las investigaciones realizadas se logro identificar la falta de herramientas de ayuda emocional, y la propención a la depresión y la ansiedad de personas TEA, identificando la siguiente oportunidad:
+<!-- WIP --> 
+A través de las investigaciones realizadas se logró
+identificar la falta de herramientas de ayuda emocional, y la
+propención a la depresión y la ansiedad de personas TEA, identificando
+la siguiente oportunidad:
 
 Brindar conocimientos sobre salud mental para generar herramientas preventivas contra transtornos emocionales
 
@@ -233,7 +335,7 @@ herramienta que compara el rendimiento de las ideas contra un
 *baseline*. Para este ejercicio escogimos el **Chi Kung** como punto de
 referencia, por su estrecha relación entre cuerpo, mente, y emoción.
 
-![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
+![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1"){ width=10cm }
 
 Bajo esta métrica, la idea de Baile Cooperativo resultó la
 vencedora. Sin embargo, aprovechamos esta instancia también para refinar, combinar,
@@ -289,11 +391,14 @@ Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisi
 
 Se realizaron dos tipos de maquetas, un prototipo Alpha, y un render
 en *Blender*. Por brevedad se adjuntan imágenes del resultado de este
-proceso en la sección [imágenes de maquetas](imágenes-de-maquetas), en el Anexo.
+proceso en la sección [**Imágenes de maquetas**](#imágenes-de-maquetas), en el Anexo.
 
 <!-- WIP -->
 ## Posibles puntos de fallo
-Considerando nuestras decisiones de diseño, existen ciertos factores en los que aún no se tiene seguridad de éxito. A continuación, se presentan los puntos de fallo que ya han sido contemplados para validar y/o resolver a la hora de realizar la siguiente iteración.
+Considerando nuestras decisiones de diseño, existen ciertos factores
+en los que aún no se tiene seguridad de éxito. A continuación, se
+presentan los puntos de fallo que ya han sido contemplados para
+validar y/o resolver a la hora de realizar la siguiente iteración.
 
 - Es incierto si los niños TEA participan de juegos cooperativos.
 - Las mancuernas no son integrales a la actividad de juego.
@@ -309,18 +414,77 @@ Considerando nuestras decisiones de diseño, existen ciertos factores en los que
 ### Protoipo Alpha
 
 #### Cartas
-![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha")
+
+Cartas
+
+![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha"){ width=100% }
 
 #### Testigo
+
+Testigo
+
 ![Prototipo Alpha de mancuerna. Cartón y rocas pequeñas](./imgs/alpha/mancuerna.jpg "Mancuerna Alpha"){ width=8cm }
 
 ### Renders
 
 #### Render general
+
+Render general
+
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
 
 #### Testigo - sección
+
+Testigo - sección
+
 ![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
 
-# Bibliografía
+## Preguntas de entrevista a profesores {#preguntas-entrevista}
+
+### Introducción
+**L:** Hola soy Luciano, ¿Cómo estás?  
+**P:**  
+**L:** Bueno, te contamos , somos un grupo de estudiantes cursando un ramo llamado taller VI de 5to año en la UTFSM.  
+**P:**  
+**L:** Este semestre estamos trabajando en diseñar un producto/servicio para niños con TEA. El objetivo es enseñarles sobre sus propias emociones a través del juego, con la finalidad de mejorar su propia salud mental.  
+**P:**  
+**L:** Para lograrlo necesitamos validar ciertas nociones e información. La literatura de este tema es limitada, por eso pedimos su ayuda.  
+**L:** Estas preguntas son 100% para fines de trabajo interno y nos comprometemos en resguardar su confidencialidad, ¿Nos das tu consentimiento?. Si no es mucha molestia nos gustaría grabar  la entrevista también, nos ayudaría bastante.   
+
+### Tanteo
+**L:** ¿Qué criterios usan para componer los cursos?...¿Hacen diagnóstico psicológico?  
+**Add:** ¿Qué toma prioridad?   
+
+### Funcionalidad
+**L:** ¿Cuál es tu apreciación sobre la funcionalidad de tus alumnos TEA?  
+**Add:** ¿Es distinto en lo social, académico, etc?  
+
+### Trastornos
+**L:** Según lo que has observado ¿qué factores crees que afectan la incidencia de depresión y ansiedad en niños con TEA?
+
+**L:** ¿Crees que existe una edad en que los niños TEA tienen más problemas emocionales?
+
+**L:** ¿En qué capacidad crees que afecta el manejo del lenguaje, verbal o no verbal, en el desarrollo de la depresión y ansiedad?
+
+**L:** ¿Has observado que la inteligencia, o CI se relacione con niños más depresivos y ansiosos?
+
+**L:** ¿Crees que la coordinación motora de los niños afecta en su capacidad de formar vínculos?
+
+### Juego
+**L:** ¿Emplean juegos en el aula?  
+**Add:** ¿De qué tipo/estilo?
+
+**L:** ¿Utilizan recompensas en las actividades de juego?  
+**Add:** ¿Funcionan?
+
+**L:** ¿Cómo observas que juegan los niños TEA en recreo?  
+**Add:** ¿Compiten, imitan, divagan, etc..?
+
+**L:** ¿Cómo reaccionan ante el azar?  
+**Add:**
+¿Se frustran?
+
+**L:** ¿Requieren de resguardo emocional?  
+
+# Referencias
 <!-- WIP -->
