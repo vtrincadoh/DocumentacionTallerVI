@@ -236,7 +236,7 @@ herramienta que compara el rendimiento de las ideas contra un
 *baseline*. Para este ejercicio escogimos el **Chi Kung** como punto de
 referencia, por su estrecha relación entre cuerpo, mente, y emoción.
 
-![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1")
+![Matriz de Pugh](./imgs/matriz-pugh.png "Matriz Número 1"){ width=10cm }
 
 Bajo esta métrica, la idea de Baile Cooperativo resultó la
 vencedora. Sin embargo, aprovechamos esta instancia también para refinar, combinar,
