@@ -171,8 +171,14 @@ Varios estudios sugieren una relación entre la edad, y la aparición de
 trastornos, poniendo atención en los períodos de adolescencia, y
 preadolesencia. Sin embargo, no se han llevado a cabo estudios
 focalizados, o conclusivos. [@magnuson_characterization_2011]
-	
-### Regulación emocional
+
+### Procesamiento sensorial	
+Existe un sinnúmero de recursos que estipulan la relación entre la
+**percepción corporal**, y emocional; bajo el término paraguas de
+alexitimia. Por brevedad, no se incluye más documentación referido a
+este tema en este documento. 
+
+#### Regulación emocional
 Se ha postulado que las anormalidades en el proceso de **regulación de
 emociones** tiene un efecto substancial sobre el estado anímico en
 TEA. Especialmente niños y adolescentes en el espectro experimentan
@@ -187,18 +193,24 @@ grado de anhedonia social, y no social que la población neurotípica; y
 que se podría considerar un predictor más fuerte de trastornos
 depresivos para personas TEA que neurotípicas. [@han_social_2019]
 
-### Sistema Propioceptivo
+#### Sistema Propioceptivo
 Se ha identificado en diversos estudios con niños TEA, que más de el
 86% de ellos demuestra riesgos de deficiencias motor que no se
 resuelven en la adolescencia. Son además, menos activos físicamente
 que niños neurotípicos, y tienden a abordar comportamientos
 sedentarios, que resultan en mayores riesgos a la salud física y
-mental.
+mental. [@hilton_sensory_2022]
 
-Existe un sinnúmero de recursos que estipulan la relación entre la
-**percepción corporal**, y emocional; bajo el término paraguas de
-alexitimia. Por brevedad, no se incluye más documentación referido a
-este tema en este documento. [@hilton_sensory_2022]
+#### Habituación sensorial
+Son destacables los actuales estudios sobre exitación sensorial en
+pacientes TEA. La actual hipótesis mecanística sobre la híper, e hipo
+reactividad ante estímulos sensoriales sugiere que esta sensibilidad
+anormal nace no de diferencias instantáneas en los umbrales
+sensoriales, sino de cómo se procesan estos estímulos en el tiempo. En
+específico, se hipotetiza que el autismo puede estar relacionado con
+una reducción en la capacidad habituación sensorial. Es decir, con la
+capacidad de tener una respuesta progresivamente menor ante estímulos
+repetitivos. [@jamal_reduced_2021]
 
 ## Investigación etnográfica
 Durante el semestre pasado se llevaron a cabo tres instancias de
