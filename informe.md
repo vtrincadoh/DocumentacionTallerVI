@@ -18,7 +18,7 @@ abstract: |
  El proyecto trata sobre el desarrollo de un producto para uso en escuelas especiales 
  Su objetivo es ayudar a preadolescentes con trastorno del espectro autista (TEA) a mejorar su bienestar emocional, y combatir de manera efectiva las sensaciones negativas como estrés, depresión y/o ansiedad.
  Para esto se propone una actividad lúdico-educativa, y un set de implementos de juego, que pretenden aumentar sus interacciones sociales, propiciar su auto-conocimiento, y estímular su cuerpo físicamente.
- El producto acutal de este proceso es una maqueta digital, y un prototipo Alpha.
+ El producto final de esta fase es una maqueta digital, y un prototipo Alpha.
 
 geometry: margin=1in
 papersize: a4
@@ -30,6 +30,15 @@ header-includes: |
 	\setlength\headheight{25pt}
 	\lhead{\includegraphics[width=6cm]{./imgs/logo/usm.png}}
 	\rhead{\includegraphics[width=3cm]{./imgs/logo/did.png}}
+	\usepackage{float}
+	\let\origfigure\figure
+	\let\endorigfigure\endfigure
+	\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+	} {
+    \endorigfigure
+	}
+
 
 ---
 <!-- 
@@ -59,7 +68,7 @@ el área de inclusión; utilizando a *La Escuela* como espacio de investigación
 y testeo. *La Escuela* fue generosa a la hora de compartir sus actividades, experiencias, conocimientos,
 y disponibilidad para deasarrollar este proyecto.
 
-El trabajo de este proyecto retoma la investigación de Taller V de dos de nuestros integrantes, Andrés Hechenleitner y Luciano Roque.
+El trabajo de este proyecto retoma la investigación de dos de nuestros integrantes, Andrés Hechenleitner y Luciano Roque.
 Ellos trabajaron con niños de 3ro y 5to básico con discapacidades cognitivas, en específico trastorno de espectro autista (TEA).
 El objetivo en aquella ocasión era brindar herramientas de comunicación efectiva para las salas de clases de *la Escuela*. 
 Con la intención de mantener aquel usuario objetivo, y de tratar desafíos más complejos, se definieron las metas que se buscarían para este nuevo semestre.
@@ -84,7 +93,7 @@ El equipo consta de cuatro individuos:
 # Objetivos del proyecto
 El actual proyecto nace a partir de los deseos del equipo de continuar
 estudiando la base de usuarios observada en el taller pasado; a saber, 
-niños TEA de enseñanza básica. Y a la vez, estudiar estudiar aspectos
+niños TEA de enseñanza básica. Y a la vez, estudiar aspectos
 de bienestar emocional.
 
 Definimos, entonces, los objetivos del proyecto de la siguiente forma:
@@ -145,7 +154,7 @@ propios síntomas del trastorno del espectro autista, y de sus
 etc.
 
 Al mismo tiempo, se ha detectado una relación entre la prevalencia de
-depresión, y funcionalidad grado de funcionalidad. En concreto, son
+depresión, y grado de funcionalidad. En concreto, son
 factores determinantes el **grado de severidad** (según DSM-V), y el
 **coeficiente intelectual**.
 
@@ -330,7 +339,7 @@ dos tipos de cartas que se usan en conjunto, en unas figura una
 
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
 
-Por otra parte los testigos cilindros que contiene en su interior una serie de pesos móviles con resortes.
+Por otra parte los testigos son cilindros que contienen en su interior una serie de pesos móviles con resortes.
 Éstos buscan estimular el sistema vestibular a través de vibraciones pasivas (producidas por el movimiento reactivo de los pesos), la sensación de peso y la textura en relieve del mango. Véase el anexo [Testigo - sección](#testigo-sección).
 
 ## Reglas del juego
@@ -381,13 +390,13 @@ validar y/o resolver a la hora de realizar la siguiente iteración.
 
 #### Cartas
 
-Cartas
+\ 
 
 ![Tarjetas de juego. Fila superior son emociones, fila inferior son partes del cuerpo](./imgs/alpha/tarjetas.png "Tarjetas prototipo alpha"){ width=100% }
 
 #### Testigo
 
-Testigo
+\ 
 
 ![Prototipo Alpha de mancuerna. Cartón y rocas pequeñas](./imgs/alpha/mancuerna.jpg "Mancuerna Alpha"){ width=8cm }
 
@@ -395,13 +404,13 @@ Testigo
 
 #### Render general
 
-Render general
+\ 
 
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
 
 #### Testigo - sección
 
-Testigo - sección
+\ 
 
 ![Sección longitudinal de la mancuerna](./imgs/render/maq1/mancuerna.png "Sección Mancuerna"){ height=6cm }
 
