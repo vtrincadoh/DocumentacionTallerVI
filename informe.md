@@ -259,16 +259,16 @@ la siguiente oportunidad:
 > Brindar conocimientos sobre salud mental para generar herramientas preventivas contra transtornos emocionales
 
 # Necesidades específicas
- 1. Ergonomía:
+ 1. **Ergonomía:**
 El producto debe considerar la medidas antropométricas del rango etario proyectado para el diseño e implementación del producto.
     
- 1. Familiaridad:
+ 1. **Familiaridad:**
 El producto debe permitir que el usuario identifique facilmente los códigos usados por el producto con la finalidad de facilitar la interacción y que el producto adquiera un condición intuitiva.
     
- 1. Sociabilidad:
+ 1. **Sociabilidad:**
 Se debe incentivar la interacción social efectiva a través del producto como articulador.
     
- 1. Seguridad:
+ 1. **Seguridad:**
 Se deben considerar los malos usos del producto, como así también los riesgos asociados en el uso y desempeño del mismo para su posterior diseño.
 
 # Ideas proyectuales
