@@ -14,9 +14,11 @@ lang: es
 numbersections: true
 
 abstract: |
- En este documento se describe el proceso de diseño del 
- grupo 3, de la asignatura Taller de Productos VI.El proyecto consiste en ayudar a Pre-adolescentes con D.C (Discapacidad Cognitiva) en especifico niños con trastorno del espectro autista (TEA) en el colegio, para mejorar sus interacciones sociales mediante actividades ludico-educativas para combatir de manera efectiva las sensaciones negativas como estrés, depresión y/o ansiedad.Impactando así el bienestar emocional personal de los alumnos. El producto
-de este proceso es una maqueta, y prototipo Alpha.
+ En este documento se describe el proceso de diseño del Grupo 3, de la asignatura Taller de Productos VI.
+ El proyecto trata sobre el desarrollo de un producto para uso en escuelas especiales 
+ Su objetivo es ayudar a preadolescentes con trastorno del espectro autista (TEA) a mejorar su bienestar emocional, y combatir de manera efectiva las sensaciones negativas como estrés, depresión y/o ansiedad.
+ Para esto se propone una actividad lúdico-educativa, y un set de implementos de juego, que pretenden aumentar sus interacciones sociales, propiciar su auto-conocimiento, y estímular su cuerpo físicamente.
+ El producto acutal de este proceso es una maqueta digital, y un prototipo Alpha.
 
 geometry: margin=1in
 papersize: a4
@@ -32,28 +34,10 @@ header-includes: |
 ---
 <!-- 
 To-do:
-
-[Imprescindible]
-* Agregar Introducción
-* Agregar EDT
-* Agregar Investigación realizada (Sincerar faltas!) [Trincado]
-* Agregar Principios de selección @ Propuesta de diseño
-
-
-[Necesario]
-* Agregar contexto del problema (Revisar la parte del problema, lo del ramo ta bn)
-* Revisar necesidades del usuario
-* Modificaciones al EDT
-* Arreglar fotos corridas
-
 [Deseable]
 * Redacción/ortografía
 * Revisar títulos de referentes
 * Revisar títulos de ideas proyectuales
-* Por favor, cambiemos el nombre de la Posta Emocional
-
-[Si sobra tiempo]
-* Rehacer la matriz Pugh (Esta incoherente)
 
 -->
 
@@ -61,25 +45,24 @@ To-do:
 
 \pagebreak
 \tableofcontents
-\pagebreak
 
 # Contexto del problema
 Este proyecto es parte de la asignatura Taller VI de la carrera
 Ingeniería en Diseño de Productos, de la UTFSM. Esta asignatura es, a su vez, 
 una continuación del trabajo realizado en Taller V; en el cual los estudiantes
 determinaron necesidades existentes dentro de la *Escuela Especial de 
-Desarrollo de La Reina* (En adelante, *La Escuela*), un establecimiento educacional 
+Desarrollo de La Reina* (en adelante, *la Escuela*), un establecimiento educacional 
 diferencial de organización municipal situado en la ciudad de Santiago. 
 
 El objetivo de Taller VI es reconocer, y desarrollar nuevas soluciones en
 el área de inclusión; utilizando a *La Escuela* como espacio de investigación
-y testeo. 
- *La Escuela* fue generosa a la hora de compartir sus actividades, experiencias, conocimientos,
-y disponibilidad de sus alumnos y profesores para deasarrollar este proyecto.
+y testeo. *La Escuela* fue generosa a la hora de compartir sus actividades, experiencias, conocimientos,
+y disponibilidad para deasarrollar este proyecto.
 
-Luego de una extensa investigación sobre el usuario y sobre los dolores que experimentan y, considerando además la reciente pandemia de Covid-19, se hizo evidente el deseo de mejorar la salud mental de los alumnos de la escuela para, de esta forma, ayudar en su desarrollo personal y propiciar mejores posibilidades a la hora de integrarse a la sociedad. A esto se le suma que las personas con autismo tienen cuatro veces más posibilidades de desarrollar depresión que la población general. Debido a que es una enfermedad crónica es sumamente importante la intervención temprana para evitarla. De todo esto nace nuestro problema: Los adolescentes TEA tienen dificultad para desarrollar herramientas sanas de afrontamiento emocional, haciéndolos más propensos a la ansiedad y la depresión.
-
-<!-- Falta contexto del problema -->
+El trabajo de este proyecto retoma la investigación de Taller V de dos de nuestros integrantes, Andrés Hechenleitner y Luciano Roque.
+Ellos trabajaron con niños de 3ro y 5to básico con discapacidades cognitivas, en específico trastorno de espectro autista (TEA).
+El objetivo en aquella ocasión era brindar herramientas de comunicación efectiva para las salas de clases de *la Escuela*. 
+Con la intención de mantener aquel usuario objetivo, y de tratar desafíos más complejos, se definieron las metas que se buscarían para este nuevo semestre.
 
 # Equipo de trabajo
 El equipo consta de cuatro individuos:
@@ -97,7 +80,6 @@ El equipo consta de cuatro individuos:
    del proyecto, participa en todas las esferas para velar por la
    buena ejecución del proyecto. Además es líder de investigación
    secundaria.
-<!-- WIP -->
 
 # Objetivos del proyecto
 El actual proyecto nace a partir de los deseos del equipo de continuar
@@ -128,7 +110,9 @@ Definimos, entonces, los objetivos del proyecto de la siguiente forma:
 > y la cinestesia; a través del juego en recreo.
 
 # Entregables de trabajo
-<!-- WIP -->
+A continuación se adjunta un diagrama de los entregables terminados y planificados.
+
+![Entregables de trabajo](./imgs/edt.png "Entregables de trabajo")
 
 # Investigación realizada
 La investigión realizada hasta a la fecha ha tenido el objetivo de
@@ -222,11 +206,10 @@ mayor no se pudieron llevar a cabo. De todas formas, fue posible
 reagendar todas estas interacciones para el día 26 de octubre del
 presente año.
 
-Se incluyen las preguntas para la entrevista con profesores en la
+Se incluyen las preguntas para la entrevista con profesores de *la Escuela* en la
 sección [**Preguntas de entrevista a profesores**](#preguntas-entrevista).
 
 # Usuario: Características y necesidades
-<!-- WIP --> 
 Para tener un entendimiento más completo de nuestro
 usuario es necesario especificar en profundidad los factores que lo
 componen. Para esto, se presentan a continuación sus características y
@@ -243,14 +226,12 @@ necesidades
 - Posee una lenta capacidad de habituación
   
 ## Necesidades del usuario:
-<!-- Revisar esto -->
 - Desarrollar habilidades sociales
 - Desarrollar habilidades de reconocimiento de emociones
 - Estimular y desarrollar la propiocepción y la cinestesia
   
 
 # Estado del arte y referentes
-<!-- WIP -->
 ## Tazos:
 Son figuras circulares los cuales muestran una imagen asociados a
 distintas tematicas (Por lo general caricaturas para llamar la
@@ -260,61 +241,48 @@ apuesta del contrincante y lanzar un tazo de su arsenal para intentar
 dar vuelta los tazos de apuesta. Aquel que logre darle la vuelta a uno
 mas tazos gana los que hayan sido volcados sobre su cara.
 
-Una adaptacion de esta idea para nuestro objetivo seria la de demostrar una emoción y una parte del cuerpo. 
-
-## Dixit:
-Juego de mesa en el cual el objetivo es adivinar una carta a partir de una pista entregada en forma de frase o narración.
-
-La adaptacion de este referente consistiria en cartas que muestran distintos escenarios en los cuales el usuario tiene que identificar las emociones producidas.
+## *Dixit*:
+Juego de mesa en el cual el objetivo es adivinar una carta a partir 
+de una pista entregada en forma de frase o narración.
 
 ## Chi Kung:
 Terapia medicinal tradicional china, centrada en la regulación de la
 respiración en conjunto de una serie de movimientos enlazados, muy
 similar a la realización del Tai Chi.
 
-En este caso particular, la única adaptación seria centrar la actividad menos en la respiración y más en  la propiocepción al momento de realizar los distintos movimientos.
-
 # Oportunidad visualizada
-<!-- WIP --> 
 A través de las investigaciones realizadas se logró
 identificar la falta de herramientas de ayuda emocional, y la
 propención a la depresión y la ansiedad de personas TEA, identificando
 la siguiente oportunidad:
 
-Brindar conocimientos sobre salud mental para generar herramientas preventivas contra transtornos emocionales
+> Brindar conocimientos sobre salud mental para generar herramientas preventivas contra transtornos emocionales
 
 # Necesidades específicas
  1. Ergonomía:
-    El producto debe considerar la medidas antropométricas del     rango etario proyectado para el diseño e implementación del producto.
+El producto debe considerar la medidas antropométricas del rango etario proyectado para el diseño e implementación del producto.
     
  1. Familiaridad:
-  El producto debe permitir que el usuario identifique facilmente los códigos usados por el producto con la finalidad de facilitar la interacción y que el producto adquiera un condición intuitiva.
+El producto debe permitir que el usuario identifique facilmente los códigos usados por el producto con la finalidad de facilitar la interacción y que el producto adquiera un condición intuitiva.
     
  1. Sociabilidad:
 Se debe incentivar la interacción social efectiva a través del producto como articulador.
     
  1. Seguridad:
 Se deben considerar los malos usos del producto, como así también los riesgos asociados en el uso y desempeño del mismo para su posterior diseño.
-    
-<!-- WIP -->
 
 # Ideas proyectuales
-
-<!-- Por favor, tengamos cuidado con los nombres acá pq se puede
-confundir con la otra sección-->
-
 ## Discos
 Muestran una emoción y una parte del cuerpo. 
 El usuario debe representar la emoción a través de sus expresiones verbales y no verbales.
 
-## "Dixit"
+## Dixiano
 Cartas que muestran distintos escenarios actuados en los cuales el usuario tiene que identificar las emociones producidas.
 
 ## Formas en Pareja
 Coreografía de pares que permite el desarrollo de la propiocepción y la comunicación de emociones en base al movimiento.
 
 # Requerimientos de diseño
-<!-- WIP -->
 - **Estimulación del sistema vestibular:**  
   El producto debe aumentar la estimulación sensorial y la propiocepción del usuario.
   
@@ -355,14 +323,19 @@ prueba el conocimiento de los jugadores sobre su propio cuerpo, y
 mente. Al final del juego ganarán el equipo que mejor sepa
 comunicar sus emociones con su cuerpo.
 
-## Reglas del juego
-La actividad se juega con un **testigo**, y un set de cartas. Existen
+## Componentes
+La actividad se lleva a cabo con un **testigo**, y un set de cartas. Existen
 dos tipos de cartas que se usan en conjunto, en unas figura una
 **emoción**, y en otras una **parte del cuerpo**.
 
 ![Render general de maqueta](./imgs/render/maq1/general.png "Maqueta número 1"){ height=6cm }
 
-Los jugadores se dividen en dos equipos. Para cada ronda, ambos
+Por otra parte los testigos cilindros que contiene en su interior una serie de pesos móviles con resortes.
+Éstos buscan estimular el sistema vestibular a través de vibraciones pasivas (producidas por el movimiento reactivo de los pesos), la sensación de peso y la textura en relieve del mango. Véase el anexo [Testigo - sección](#testigo-sección).
+
+## Reglas del juego
+
+Para la realización del juego los jugadores se dividen en dos equipos. Para cada ronda, ambos
 equipos se enfrentarán en competencia, representados en cada ronda por
 uno de sus miembros, que llevará el **testigo**. Ambos representantes
 deberán sacar una **carta de emoción**, y una **carta de cuerpo**. A
@@ -381,11 +354,6 @@ punto, y avanza a la siguiente ronda. Para moderar la experiencia, el
 juego cuenta con un **Árbitro**, que dependiendo del contexto de uso
 puede ser un profesor, coeducador, o inspector.
 
-## Principios de Selección
-<!-- WIP -->
-<!-- Por qué cumple los requerimientos -->
-
-
 ## Maquetas
 Las primeras maquetas desarrolladas constituyen nuestro primer acercamiento fisico al juego, tienen el objetivo de darle forma física a la idea. Al mismo tiempo, estas maquetas servirán para llevar a cabo la investigación aplicada del proyecto. Es decir, probar nuestras ideas con usuarios reales para luego aprender, y realizar otra iteración.
 
@@ -393,7 +361,6 @@ Se realizaron dos tipos de maquetas, un prototipo Alpha, y un render
 en *Blender*. Por brevedad se adjuntan imágenes del resultado de este
 proceso en la sección [**Imágenes de maquetas**](#imágenes-de-maquetas), en el Anexo.
 
-<!-- WIP -->
 ## Posibles puntos de fallo
 Considerando nuestras decisiones de diseño, existen ciertos factores
 en los que aún no se tiene seguridad de éxito. A continuación, se
@@ -408,7 +375,6 @@ validar y/o resolver a la hora de realizar la siguiente iteración.
 - Seguridad en el uso de mancuernas.
 
 # Anexos
-<!-- WIP -->
 ## Imágenes de maquetas
 
 ### Protoipo Alpha
@@ -481,10 +447,8 @@ Testigo - sección
 **Add:** ¿Compiten, imitan, divagan, etc..?
 
 **L:** ¿Cómo reaccionan ante el azar?  
-**Add:**
-¿Se frustran?
+**Add:** ¿Se frustran?
 
 **L:** ¿Requieren de resguardo emocional?  
 
 # Referencias
-<!-- WIP -->
